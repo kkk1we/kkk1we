@@ -1,15 +1,15 @@
 ## Hi there 👋
-<!--- <p align="center"><a href="https://kkk1we.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p> -->
+<!--- <p align="center"><a href="https://kkk1we.github.io"><img width="80%" alt="Hello, I'm Ken!" src="./assets/gh-readme-header.png" /></a></p> -->
 <h1 align = "center"> Hello, I'm Ken.</h1>
 <br />
 
-I'm an aspiring quant from Singapore.
+I'm from Singapore.
 
 **About me**
 
 - 💼 [Anglo-Chinese School (Independent)](https://www.acsindep.moe.edu.sg/)
 
-- 📈 Statistical fortune telling
+- Robotics, coding
   
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
